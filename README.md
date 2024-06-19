@@ -1,2 +1,2 @@
 # scRNA_analysis
- single cell RNA analysis workflow
+ Basic single cell RNA analysis workflow
